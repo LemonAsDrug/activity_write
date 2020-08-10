@@ -1,0 +1,42 @@
+2020-06-30 18:27:20.851  INFO 3080 --- [main] c.e.c.a.ActivityWriteApplication         : Starting ActivityWriteApplication on LAPTOP-QMR5JINM with PID 3080 (C:\Users\12287\IdeaProjects\activity_write\target\classes started by HelloWorld in C:\Users\12287\IdeaProjects\activity_write)
+2020-06-30 18:27:20.856  INFO 3080 --- [main] c.e.c.a.ActivityWriteApplication         : No active profile set, falling back to default profiles: default
+2020-06-30 18:27:22.266  WARN 3080 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'activityMapper' and 'com.example.chong.activity_write.mapper.ActivityMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:22.267  WARN 3080 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'activityParticipateRecordMapper' and 'com.example.chong.activity_write.mapper.ActivityParticipateRecordMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:22.270  WARN 3080 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'activityVoteOptionsMapper' and 'com.example.chong.activity_write.mapper.ActivityVoteOptionsMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:22.270  WARN 3080 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'activityVoteUserMapper' and 'com.example.chong.activity_write.mapper.ActivityVoteUserMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:22.270  WARN 3080 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'petCircleCommentMapper' and 'com.example.chong.activity_write.mapper.PetCircleCommentMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:22.271  WARN 3080 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'petCircleMapper' and 'com.example.chong.activity_write.mapper.PetCircleMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:22.271  WARN 3080 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'petCirclePicMapper' and 'com.example.chong.activity_write.mapper.PetCirclePicMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:22.271  WARN 3080 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'userMapper' and 'com.example.chong.activity_write.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:22.272  WARN 3080 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.chong.activity_write.mapper]' package. Please check your configuration.
+2020-06-30 18:27:22.778  INFO 3080 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 10001 (http)
+2020-06-30 18:27:22.789  INFO 3080 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-30 18:27:22.790  INFO 3080 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-30 18:27:22.929  INFO 3080 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-30 18:27:22.930  INFO 3080 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1975 ms
+2020-06-30 18:27:23.155  INFO 3080 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2020-06-30 18:27:23.302  INFO 3080 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2020-06-30 18:27:24.746  INFO 3080 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-30 18:27:25.347  INFO 3080 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 10001 (http) with context path ''
+2020-06-30 18:27:25.362  INFO 3080 --- [main] c.e.c.a.ActivityWriteApplication         : Started ActivityWriteApplication in 5.384 seconds (JVM running for 7.219)
+2020-06-30 18:27:54.205  INFO 5820 --- [main] c.e.c.a.ActivityWriteApplication         : Starting ActivityWriteApplication on LAPTOP-QMR5JINM with PID 5820 (C:\Users\12287\IdeaProjects\activity_write\target\classes started by HelloWorld in C:\Users\12287\IdeaProjects\activity_write)
+2020-06-30 18:27:54.209  INFO 5820 --- [main] c.e.c.a.ActivityWriteApplication         : No active profile set, falling back to default profiles: default
+2020-06-30 18:27:55.817  WARN 5820 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'activityMapper' and 'com.example.chong.activity_write.mapper.ActivityMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:55.818  WARN 5820 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'activityParticipateRecordMapper' and 'com.example.chong.activity_write.mapper.ActivityParticipateRecordMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:55.818  WARN 5820 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'activityVoteOptionsMapper' and 'com.example.chong.activity_write.mapper.ActivityVoteOptionsMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:55.818  WARN 5820 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'activityVoteUserMapper' and 'com.example.chong.activity_write.mapper.ActivityVoteUserMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:55.818  WARN 5820 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'petCircleCommentMapper' and 'com.example.chong.activity_write.mapper.PetCircleCommentMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:55.819  WARN 5820 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'petCircleMapper' and 'com.example.chong.activity_write.mapper.PetCircleMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:55.819  WARN 5820 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'petCirclePicMapper' and 'com.example.chong.activity_write.mapper.PetCirclePicMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:55.819  WARN 5820 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'userMapper' and 'com.example.chong.activity_write.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:27:55.820  WARN 5820 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.chong.activity_write.mapper]' package. Please check your configuration.
+2020-06-30 18:27:56.363  INFO 5820 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 10001 (http)
+2020-06-30 18:27:56.376  INFO 5820 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-30 18:27:56.376  INFO 5820 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-30 18:27:56.524  INFO 5820 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-30 18:27:56.524  INFO 5820 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2239 ms
+2020-06-30 18:27:56.812  INFO 5820 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2020-06-30 18:27:57.013  INFO 5820 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2020-06-30 18:27:59.324  INFO 5820 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-30 18:27:59.613  INFO 5820 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 10001 (http) with context path ''
+2020-06-30 18:27:59.626  INFO 5820 --- [main] c.e.c.a.ActivityWriteApplication         : Started ActivityWriteApplication in 6.179 seconds (JVM running for 8.217)

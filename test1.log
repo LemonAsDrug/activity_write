@@ -1,0 +1,21 @@
+2020-06-30 18:20:14.664  INFO 9284 --- [main] c.e.c.a.ActivityWriteApplication         : Starting ActivityWriteApplication on LAPTOP-QMR5JINM with PID 9284 (C:\Users\12287\IdeaProjects\activity_write\target\classes started by HelloWorld in C:\Users\12287\IdeaProjects\activity_write)
+2020-06-30 18:20:14.670  INFO 9284 --- [main] c.e.c.a.ActivityWriteApplication         : No active profile set, falling back to default profiles: default
+2020-06-30 18:20:16.056  WARN 9284 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'activityMapper' and 'com.example.chong.activity_write.mapper.ActivityMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:20:16.057  WARN 9284 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'activityParticipateRecordMapper' and 'com.example.chong.activity_write.mapper.ActivityParticipateRecordMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:20:16.060  WARN 9284 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'activityVoteOptionsMapper' and 'com.example.chong.activity_write.mapper.ActivityVoteOptionsMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:20:16.060  WARN 9284 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'activityVoteUserMapper' and 'com.example.chong.activity_write.mapper.ActivityVoteUserMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:20:16.060  WARN 9284 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'petCircleCommentMapper' and 'com.example.chong.activity_write.mapper.PetCircleCommentMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:20:16.061  WARN 9284 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'petCircleMapper' and 'com.example.chong.activity_write.mapper.PetCircleMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:20:16.061  WARN 9284 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'petCirclePicMapper' and 'com.example.chong.activity_write.mapper.PetCirclePicMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:20:16.062  WARN 9284 --- [main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'userMapper' and 'com.example.chong.activity_write.mapper.UserMapper' mapperInterface. Bean already defined with the same name!
+2020-06-30 18:20:16.062  WARN 9284 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example.chong.activity_write.mapper]' package. Please check your configuration.
+2020-06-30 18:20:16.564  INFO 9284 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 10001 (http)
+2020-06-30 18:20:16.585  INFO 9284 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-06-30 18:20:16.586  INFO 9284 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-06-30 18:20:16.725  INFO 9284 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-06-30 18:20:16.725  INFO 9284 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1953 ms
+2020-06-30 18:20:16.947  INFO 9284 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2020-06-30 18:20:17.087  INFO 9284 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2020-06-30 18:20:18.502  INFO 9284 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-30 18:20:18.743  INFO 9284 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 10001 (http) with context path ''
+2020-06-30 18:20:18.755  INFO 9284 --- [main] c.e.c.a.ActivityWriteApplication         : Started ActivityWriteApplication in 4.872 seconds (JVM running for 6.445)
